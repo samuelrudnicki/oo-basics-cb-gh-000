@@ -4,4 +4,3 @@ def initialize(title)
 end
 
 end
-
